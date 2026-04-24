@@ -28,7 +28,7 @@ HR-Attrition-Analysis/
 | **`Attrition`** | **Target** | Yes (Left) / No (Stayed) | The core target metric being tracked and analyzed. |
 | **`Age`** | Numerical | Actual age of the employee | Highlighted the high vulnerability of staff under 25. |
 | **`Department`** | Categorical | Sales, R&D, HR | Used to identify the highest-risk department. |
-| **`JobLevel`** | Ordinal | 1 (Entry) to 5 (Manager) | Showed that Entry-level staff quit the most. |
+| **`JobLevel`** | Ordinal | 1 (Entry) to 5 (Director) | Showed that Entry-level staff quit the most. |
 | **`JobRole`** | Categorical | Sales Rep, Lab Technician, etc. | Used to define the specific high-risk persona. |
 | **`MonthlyIncome`** | Numerical | Monthly salary | Confirmed low pay as a contributing factor to attrition. |
 | **`OverTime`** | Categorical | Yes / No | **Identified as the primary root cause of burnout.** |
